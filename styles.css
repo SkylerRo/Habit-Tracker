@@ -8,6 +8,8 @@
 }
 
 
+
+
 .todo-app {
     width: 100%;
     max-width: 540px;
@@ -18,8 +20,7 @@
 }
 
 .todo-app h2 {
-    display: flex;
-    align-items: center;
+    text-align: center;
     margin-bottom: 20px;
 }
 
@@ -95,4 +96,8 @@ ul li span {
 
 ul li span:hover {
     background: #edeef0;
+}
+
+editButton {
+    color: #08dc80;
 }
