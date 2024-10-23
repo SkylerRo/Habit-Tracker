@@ -1,37 +1,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
-.container {
+body {
 
     background: linear-gradient(135deg, #08dc80, #08aaea);
     width: 100%;
@@ -39,33 +9,20 @@
     padding: 10px;
 }
 
-
-
-
-.todo-app {
-    width: 100%;
-    max-width: 540px;
-    background: white;
-    margin: 100px auto 20px;
-    padding: 40px 30px;
-    border-radius: 10px;
-}
-
-.todo-app h2 {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.row {
+#new-task-form {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: #edeef0;
-    border-radius: 30px;
-    padding-left: 20px;
-    margin-bottom: 25px;
-
 }
+
+
+
+
+#new-task-form {
+    border: white;
+    padding: white;
+}
+
+
+
 
 input {
     flex:1;
@@ -86,50 +43,3 @@ button {
     cursor: pointer;
     border-radius: 40px;
 }
-
-ul li {
-    list-style: none;
-    font-size: 17px;
-    padding: 12px 8px 12px 50px;
-    user-select: none;
-    cursor: pointer;
-    position: relative;
-}
-
-ul  li::before {
-    content: '';
-    position: absolute;
-    height: 28px;
-    width: 28;
-    border-radius: 50%;
-    background-size: cover;
-    background-position: center;
-    top: 12px;
-    left: 8px;
-/* add check box */
-}
-
-ul li.checked {
-    text-decoration: line-through;
-} 
-/* add check box */
-
-ul li span {
-    position: absolute;
-    right: 0;
-    top: 5px;
-    width: 40px;
-    height: 40px;
-    font-size: 22px;
-    color: #555;
-    line-height: 40px;
-    text-align: center;
-}
-
-ul li span:hover {
-    background: #edeef0;
-}
-
-editButton {
-    color: #08dc80;
-} */
