@@ -9,20 +9,40 @@ body {
     padding: 10px;
 }
 
-#new-task-form {
-    display: flex;
+h1 {
+    text-align: center;
 }
 
 
 
-
 #new-task-form {
+
+    text-align: center;
     border: white;
     padding: white;
 }
 
 
+#new-task-submit {
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: #45caff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40px;
+    
 
+}
+
+
+#new-task-input {
+   background: #edeef0;
+   border-radius: 30px;
+   
+    
+}
 
 input {
     flex:1;
@@ -31,6 +51,15 @@ input {
     background: transparent;
     padding: 10px;
 
+}
+
+.task-list {
+width: 100%;
+max-width: 540px;
+background: #fff;
+margin: 100px auto 20px;
+padding: 40px 30px 70px;
+border-radius: 10px;
 }
 
 button {
@@ -42,4 +71,5 @@ button {
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
+    
 }
