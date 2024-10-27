@@ -15,3 +15,10 @@ For questions or feedback, feel free to reach out:
 
 Email: Skyler@example.com
 GitHub: SkylerRo
+
+
+sources: 
+https://www.youtube.com/watch?v=G0jO8kUrg-I
+https://www.youtube.com/watch?v=c48pBHlnsPE&t=966s
+
+
