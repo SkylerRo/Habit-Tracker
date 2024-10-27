@@ -8,4 +8,13 @@ connect.then(() => {
     console.log("cannot connect database")
 })
 
-const LoginSchema = new mongoose
+const LoginSchema = new mongoose.Schema({
+    name: {
+        type: String,
+        required: true
+    },
+    password: {
+        type: String,
+        require: true
+    }
+})
