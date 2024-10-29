@@ -21,5 +21,7 @@ sources:
 https://www.youtube.com/watch?v=G0jO8kUrg-I
 https://www.youtube.com/watch?v=c48pBHlnsPE&t=966s
 https://www.youtube.com/watch?v=V8dYGNfHjfk&t=1585s
+https://www.youtube.com/watch?v=dyImiV6MGqg&t=33s
+https://www.youtube.com/watch?v=LC0Er_dDDO0&t=16s
 
 
